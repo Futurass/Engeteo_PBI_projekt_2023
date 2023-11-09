@@ -1,4 +1,4 @@
-# Engeteo_PBI_projekt_2023
+# Engeto_PBI_projekt_2023
  
 #### Jméno studenta: Radomil Faksa
 #### Discord: Radomil F.
